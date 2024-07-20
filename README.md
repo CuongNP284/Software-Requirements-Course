@@ -13,6 +13,8 @@
 #### Cover for Diamond Shop System SRS
 ![Cover for Diamond Shop System SRS](https://github.com/CuongNP284/Software-Requirements-Course/blob/main/Screenshots/SRS_Demo.png)
 
+#### You can see more at file docx "Software_Requirment_Specification_DiamondShopSystem"
+
 ### Some Sequence Digrams for the Topic "Diamond Shop System"
 
 #### Voucher Management
